@@ -1,0 +1,9 @@
+Package: com.zorba.theme
+Name: Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: MaFu's white based theme.
+Author: mafu
+Maintainer: mafu
+Section: Themes
+Depends:
